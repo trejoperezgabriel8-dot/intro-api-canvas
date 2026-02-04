@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../6TO Semestre/M.N/Rust/ppp"
+		},
+		{
+			"path": "../../intro app color"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "intro app color"
+	}
+}
