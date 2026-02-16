@@ -8,9 +8,12 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../../../Lenguajes y Automatas/HP DEMOS PROGS"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "intro app color"
+		"liveServer.settings.multiRootWorkspaceName": "intro-api-canvas"
 	}
 }
